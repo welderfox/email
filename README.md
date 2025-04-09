@@ -7,3 +7,4 @@
 - RabbitMQ
 - PostgreSQL
 - Spring Boot
+- SMTP Gmail
